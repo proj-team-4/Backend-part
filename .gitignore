@@ -1,0 +1,20 @@
+# تجاهل فولدر node_modules
+node_modules/
+
+# تجاهل ملفات البيئة الحساسة
+.env
+
+# تجاهل ملفات البناء (لو Angular أو React أو غيره)
+dist/
+build/
+
+# تجاهل ملفات اللوج
+*.log
+
+# تجاهل ملفات إعدادات المحررات
+.vscode/
+.idea/
+
+# تجاهل ملفات النظام
+.DS_Store
+Thumbs.db
